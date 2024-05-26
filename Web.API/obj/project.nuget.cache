@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "MN1CoVQ5iY8WqH3repzO4qsO8ME+M+CcS3WYW/6TDUUfne5AOdOF8HIaORh0ubZ2kKVvDnfgkKIiJxNpwEzsNw==",
+  "success": true,
+  "projectFilePath": "/home/azizjon/Desktop/projects/csharp/jwtDemo/Web.API/Web.API.csproj",
+  "expectedPackageFiles": [
+    "/home/azizjon/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/8.0.5/microsoft.aspnetcore.authentication.jwtbearer.8.0.5.nupkg.sha512",
+    "/home/azizjon/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/azizjon/.nuget/packages/microsoft.extensions.dependencyinjection/2.1.0/microsoft.extensions.dependencyinjection.2.1.0.nupkg.sha512",
+    "/home/azizjon/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.9/microsoft.extensions.dependencyinjection.abstractions.3.1.9.nupkg.sha512",
+    "/home/azizjon/.nuget/packages/microsoft.extensions.dependencymodel/3.1.6/microsoft.extensions.dependencymodel.3.1.6.nupkg.sha512",
+    "/home/azizjon/.nuget/packages/microsoft.identitymodel.abstractions/7.1.2/microsoft.identitymodel.abstractions.7.1.2.nupkg.sha512",
+    "/home/azizjon/.nuget/packages/microsoft.identitymodel.jsonwebtokens/7.1.2/microsoft.identitymodel.jsonwebtokens.7.1.2.nupkg.sha512",
+    "/home/azizjon/.nuget/packages/microsoft.identitymodel.logging/7.1.2/microsoft.identitymodel.logging.7.1.2.nupkg.sha512",
+    "/home/azizjon/.nuget/packages/microsoft.identitymodel.protocols/7.1.2/microsoft.identitymodel.protocols.7.1.2.nupkg.sha512",
+    "/home/azizjon/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/7.1.2/microsoft.identitymodel.protocols.openidconnect.7.1.2.nupkg.sha512",
+    "/home/azizjon/.nuget/packages/microsoft.identitymodel.tokens/7.1.2/microsoft.identitymodel.tokens.7.1.2.nupkg.sha512",
+    "/home/azizjon/.nuget/packages/microsoft.openapi/1.3.1/microsoft.openapi.1.3.1.nupkg.sha512",
+    "/home/azizjon/.nuget/packages/scrutor/3.3.0/scrutor.3.3.0.nupkg.sha512",
+    "/home/azizjon/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/home/azizjon/.nuget/packages/swashbuckle.aspnetcore.filters/8.0.2/swashbuckle.aspnetcore.filters.8.0.2.nupkg.sha512",
+    "/home/azizjon/.nuget/packages/swashbuckle.aspnetcore.filters.abstractions/8.0.2/swashbuckle.aspnetcore.filters.abstractions.8.0.2.nupkg.sha512",
+    "/home/azizjon/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/home/azizjon/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/home/azizjon/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "/home/azizjon/.nuget/packages/system.identitymodel.tokens.jwt/7.1.2/system.identitymodel.tokens.jwt.7.1.2.nupkg.sha512",
+    "/home/azizjon/.nuget/packages/system.text.json/4.7.2/system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

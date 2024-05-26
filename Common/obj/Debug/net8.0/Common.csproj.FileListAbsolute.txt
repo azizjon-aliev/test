@@ -1,0 +1,11 @@
+/home/azizjon/Desktop/projects/csharp/jwtDemo/Common/bin/Debug/net8.0/Common.deps.json
+/home/azizjon/Desktop/projects/csharp/jwtDemo/Common/bin/Debug/net8.0/Common.dll
+/home/azizjon/Desktop/projects/csharp/jwtDemo/Common/bin/Debug/net8.0/Common.pdb
+/home/azizjon/Desktop/projects/csharp/jwtDemo/Common/obj/Debug/net8.0/Common.GeneratedMSBuildEditorConfig.editorconfig
+/home/azizjon/Desktop/projects/csharp/jwtDemo/Common/obj/Debug/net8.0/Common.AssemblyInfoInputs.cache
+/home/azizjon/Desktop/projects/csharp/jwtDemo/Common/obj/Debug/net8.0/Common.AssemblyInfo.cs
+/home/azizjon/Desktop/projects/csharp/jwtDemo/Common/obj/Debug/net8.0/Common.csproj.CoreCompileInputs.cache
+/home/azizjon/Desktop/projects/csharp/jwtDemo/Common/obj/Debug/net8.0/Common.dll
+/home/azizjon/Desktop/projects/csharp/jwtDemo/Common/obj/Debug/net8.0/refint/Common.dll
+/home/azizjon/Desktop/projects/csharp/jwtDemo/Common/obj/Debug/net8.0/Common.pdb
+/home/azizjon/Desktop/projects/csharp/jwtDemo/Common/obj/Debug/net8.0/ref/Common.dll
